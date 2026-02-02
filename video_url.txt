@@ -1,0 +1,5 @@
+Player URL:
+https://dsasylvionn.github.io/player/?list=https://raw.githubusercontent.com/dsasylvionn/d2b9c808abee1e59/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/dsasylvionn/d2b9c808abee1e59/refs/heads/master/github_master.m3u8
